@@ -55,9 +55,9 @@ C
 
 ## Authors
 
-Diogo Herrera -->
+Diogo Herrera --> https://github.com/DiogoHerreraa
 
-João Pedo Dias -->
+João Pedo Dias --> https://github.com/Joaoadiaas
 
-Nedson Bomman -->
+Nedson Bomman --> https://github.com/Nedsonjr10
 
