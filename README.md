@@ -40,10 +40,10 @@ chave do jogo, como jogadores, itens, ou estados do jogo.
 ● Deve incluir funções de inserção e remoção de nós.
 ● Deve incluir função para imprimir o conteúdo da estrutura.
 6. Implementar uma Fila
-
  ● Utilizada para gerenciar uma sequência de eventos ou uma fila de espera para algum recurso ou ação no jogo.
 ● Deve incluir funções de inserção e remoção de nós.
 ● Deve incluir função para imprimir o conteúdo da estrutura.
+
 7. Implementar e Aplicar Duas Funções de Hashing
 ● As funções de hashing podem ser usadas para implementar uma tabela hash para busca rápida de elementos, como itens ou jogadores.
 
